@@ -2,7 +2,7 @@
 
 A set of modular, low-cost, and smart **Uninterruptible Power Supplies (UPS)** designed to protect and monitor critical smart home devices like Mini PCs, Routers, ONTs, and IP Cameras.
 
-![DIY UPS Project](assets/image25.jpeg) 
+![DIY UPS Project](assets/image25.jpg) 
 *(Left: Wi-Fi Monitored Version | Right: Standard Compact Version)*
 
 ---
@@ -101,3 +101,4 @@ This project is for educational and DIY purposes. Always handle Li-ion batteries
 
 ---
 *Developed for a robust and affordable Smart Home infrastructure.*
+
